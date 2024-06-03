@@ -14,13 +14,15 @@ Here are some of the key skills and technologies I have experience with:
 
 ## DevOps Tools**
 
-CI/CD: 
+CI/CD: Jenkins, GitHub Actions, GitLab CI/CD, Maven
+
+Artifact Management: JFrog Artifactory 
 
 Configuration Management: 
 
 Containerization: 
 
-Infrastructure as Code (IaC): 
+Infrastructure as Code (IaC): Terraform, AWS CloudFormation
 
 Monitoring and Logging: 
 
@@ -59,13 +61,13 @@ Technologies Used:
 
 # 🎓 Education
 
-Masters in Business Administration
-APJ Abdul Kalam Technological University, Kerala, India
-Year of Graduation : 2019
+* **Masters in Business Administration**
+  - APJ Abdul Kalam Technological University, Kerala, India
+  - Year of Graduation : 2019
 
-Bachelor of Science in Electronics and Communications
-Mahatma Gandhi University, Kerala, India
-Year of Graduation : 2013
+* **Bachelor of Science in Electronics and Communications**
+  - Mahatma Gandhi University, Kerala, India
+  - Year of Graduation : 2013
 
 # 📜 Certifications
 
@@ -75,7 +77,9 @@ IBM DevOps and Software Engineer
 I'm always open to new opportunities and collaborations. Feel free to reach out to me through the following channels:
 
 Email: amalsunny992@gmail.com.com
+
 LinkedIn: 
+
 Twitter: 
 
 Thank you for visiting my profile. I look forward to connecting with you!
