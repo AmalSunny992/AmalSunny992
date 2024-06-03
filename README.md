@@ -1,10 +1,12 @@
 # 👋 Hi there! I'm Amal Sunny
 
 ## 🌐 About Me
+
 Welcome to my GitHub profile! I'm passionate about technology, automation, and cloud computing, and I'm actively seeking opportunities in DevOps. 
 Below, you'll find a brief overview of my background, skills, projects, and how to get in touch with me.
 
 ## 🚀 Background
+
 I am a dedicated and enthusiastic IT professional with a strong foundation in software development and a keen interest in DevOps practices.
 My journey in the tech industry has equipped me with a diverse skill set, enabling me to bridge the gap between development and operations.
 
@@ -12,7 +14,7 @@ My journey in the tech industry has equipped me with a diverse skill set, enabli
 
 Here are some of the key skills and technologies I have experience with:
 
-### DevOps Tools**
+### DevOps Tools
 
 **CI/CD**: Jenkins, GitHub Actions, GitLab CI/CD, Maven
 
