@@ -5,6 +5,7 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![JFrog Badge](https://img.shields.io/badge/JFrog-40BE46?logo=jfrog&logoColor=fff&style=plastic)
 
 # 👋 Hi there! I'm Amal Sunny
 
