@@ -30,9 +30,9 @@ Here are some of the key skills and technologies I have experience with:
 
 **Artifact Management**: JFrog Artifactory 
 
-**Configuration Management**: 
+**Configuration Management**: Ansible
 
-**Containerization**: 
+**Containerization**: Docker
 
 **Infrastructure as Code (IaC)**: Terraform
 
