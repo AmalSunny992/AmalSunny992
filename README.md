@@ -101,7 +101,7 @@ Description:
 
 ## 📜 Certifications
 
-- IBM DevOps and Software Engineer
+- IBM DevOps and Software Engineering
 
 ## 📫 Contact
 
