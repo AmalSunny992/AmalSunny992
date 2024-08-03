@@ -109,7 +109,8 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 
 Email: amalsunny992@gmail.com.com
 
-LinkedIn: 
+LinkedIn: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="amal-sunny-a5801a320" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/amal-sunny-a5801a320?trk=profile-badge">Amal Sunny</a></div>
+              
 
 Twitter: 
 
